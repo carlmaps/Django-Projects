@@ -1,3 +1,4 @@
 # Django-Projects
 
-This a personal portfolio website written in Django
+### Personal Portfolio
+This a personal website that contains sample project portfolio and personal blogs
